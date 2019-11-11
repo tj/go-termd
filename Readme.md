@@ -2,7 +2,7 @@
 
 Package termd provides terminal markdown rendering, with code block syntax highlighting support.
 
-![](https://www.dropbox.com/s/2kzmmoelwqio5tr/termd.png)
+![](https://apex-software.imgix.net/github/tj/termd/screenshot.png)
 
 ---
 
