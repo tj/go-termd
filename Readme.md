@@ -2,6 +2,8 @@
 
 Package termd provides terminal markdown rendering, with code block syntax highlighting support.
 
+![](https://www.dropbox.com/s/2kzmmoelwqio5tr/termd.png)
+
 ---
 
 [![GoDoc](https://godoc.org/github.com/tj/go-termd?status.svg)](https://godoc.org/github.com/tj/go-termd)
