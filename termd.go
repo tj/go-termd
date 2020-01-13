@@ -8,7 +8,7 @@ import (
 
 	"github.com/kr/text"
 	"github.com/mitchellh/go-wordwrap"
-	"github.com/russross/blackfriday"
+	"github.com/russross/blackfriday/v2"
 )
 
 // Compiler is the markdown to text compiler. The zero value can be used.
